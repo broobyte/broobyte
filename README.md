@@ -1,16 +1,22 @@
-### Hi there 👋
+![Header](https://github.com/broobyte/broobyte/blob/main/Banner.png?raw=true)
 
-<!--
-**broobyte/broobyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an aspiring developer keen on learning the ins and outs of web development.
+
+### Active Projects 🤖
+
+---
+
+[Twitter Bot]()
+|
+[Reddit Bot]()
+|
+[Blog]()
+
+---
+
+Feel free to reach out to me via my portfolio!
+
+[Portfolio](https://www.broobyte.com)
