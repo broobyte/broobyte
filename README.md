@@ -9,11 +9,11 @@ I am an aspiring developer keen on learning the ins and outs of web development.
 
 ---
 
-[Twitter Bot]()
+[Twitter Bot](https://www.twitter.com/commonwordbot)
 |
-[Reddit Bot]()
+[Reddit Bot](https://www.reddit.com/r/commonword)
 |
-[Blog]()
+[Blog](http://www.brooblog.co.uk)
 
 ---
 
