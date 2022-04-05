@@ -1,13 +1,11 @@
 ![Header](https://github.com/broobyte/broobyte/blob/main/Banner.png?raw=true)
 
 
-## Hi 👋
+# Hi 👋
 
 I am an aspiring developer keen on learning the ins and outs of web development.
 
-### Active Projects 🤖
-
----
+## Active Projects 🤖
 
 [Twitter Bot](https://www.twitter.com/commonwordbot)
 |
@@ -15,7 +13,7 @@ I am an aspiring developer keen on learning the ins and outs of web development.
 |
 [Blog](http://www.brooblog.co.uk)
 
----
+## Getting Started 🤷‍♂️
 
 Feel free to reach out to me via my portfolio!
 
